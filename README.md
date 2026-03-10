@@ -1,2 +1,11 @@
-# anxiocheck
-An application that tracks a user heart rate and blood flow to help them in high-risk situations and manage stress/anxiety states
+
+  # anxiocheck
+
+  This is a code bundle for anxiocheck. The original project is available at https://www.figma.com/design/vDjigrZIXFEzLBmhkffDh8/anxiocheck.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
